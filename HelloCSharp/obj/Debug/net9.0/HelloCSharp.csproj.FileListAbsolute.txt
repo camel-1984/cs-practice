@@ -1,0 +1,14 @@
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/bin/Debug/net9.0/HelloCSharp
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/bin/Debug/net9.0/HelloCSharp.deps.json
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/bin/Debug/net9.0/HelloCSharp.runtimeconfig.json
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/bin/Debug/net9.0/HelloCSharp.dll
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/bin/Debug/net9.0/HelloCSharp.pdb
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.AssemblyInfoInputs.cache
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.AssemblyInfo.cs
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.dll
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/refint/HelloCSharp.dll
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.pdb
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.genruntimeconfig.cache
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/ref/HelloCSharp.dll
