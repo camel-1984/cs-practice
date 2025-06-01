@@ -12,3 +12,4 @@
 /Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.pdb
 /Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.genruntimeconfig.cache
 /Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/ref/HelloCSharp.dll
+/Users/rostislavmolcanov/Documents/itmo/curse2/c#/practice/ConsoleApp1/HelloCSharp/obj/Debug/net9.0/HelloCSharp.sourcelink.json
