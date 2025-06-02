@@ -89,4 +89,44 @@ namespace HelloCSharp
         }
         
     }
+
+    public class MyHash()
+    {
+        public static void Hash()
+        {
+            var logs = new List<(string user, string page)>
+            {
+                ("alice", "/home"),
+                ("bob", "/about"),
+                ("alice", "/about"),
+                ("bob", "/contact"),
+                ("alice", "/home"),
+                ("alice", "/profile"),
+                ("bob", "/about"),
+            };
+
+            Dictionary<string, HashSet<string>> dick = new Dictionary<string, HashSet<string>>();
+
+            foreach (var obj in logs)
+            {
+                if (!dick.ContainsKey(obj.user))
+                {
+                    dick.Add(obj.user, new HashSet<string>());
+                }
+                dick[obj.user].Add(obj.page);
+            }
+
+            foreach (var h in dick)
+            {
+                Console.Write(h.Key + " -> ");
+                foreach (var variable in h.Value)
+                {
+                    Console.Write(variable + " ");
+                }
+                Console.WriteLine();
+                
+            }
+        }
+        
+    }
 }

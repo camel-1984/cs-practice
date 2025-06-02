@@ -112,9 +112,37 @@ public class Basics2
             return false;
         }
     }
+    class Program2
+    {
+        static void Read()
+        {
+            Console.Write("Введите количество элементов: ");
+            int n = int.Parse(Console.ReadLine());
 
+            int[] numbers = new int[n];
 
-    
+            for (int i = 0; i < n; i++)
+            {
+                Console.Write($"Введите элемент {i + 1}: ");
+                var u = Console.ReadLine();
+                if (int.TryParse(u, out int o))
+                {
+                    numbers[i] = o;
+
+                }
+            }
+
+            Console.WriteLine("Вы ввели:");
+            foreach (int x in numbers)
+                Console.Write(x + " ");
+        }
+        
+        int[] numbers = Console.ReadLine()
+            .Split()
+            .Select(int.Parse)
+            .ToArray();
+
+    }
 }
 
 
