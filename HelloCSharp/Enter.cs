@@ -8,6 +8,8 @@ namespace HelloCSharp
         public static void Main()
         {
             Console.WriteLine("Hello");
+            
+            MyArray.ArrayFunc3();
 
         }
     }

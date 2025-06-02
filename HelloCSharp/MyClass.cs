@@ -2,12 +2,12 @@ namespace HelloCSharp
 {
     using System; 
 
-    public class Klass
+    public class MyClass
     {
         public static void Func()
         {
             Basics.comp = 2;
-            Console.WriteLine(HelloCSharp.Basics.comp);
+            Console.WriteLine(Basics.comp);
         }
 
     }
