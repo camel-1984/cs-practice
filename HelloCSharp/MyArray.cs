@@ -14,9 +14,7 @@ namespace HelloCSharp
     
     // HashSet<T> — множество
     // SortedSet<int> 
-    // 
-
-
+    
     public class MyArray
     {
         int[] numbers = new int[3]; // [0, 0, 0] статичный массив 

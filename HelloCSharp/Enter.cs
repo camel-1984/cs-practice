@@ -9,8 +9,6 @@ namespace HelloCSharp
         {
             Console.WriteLine("Hello");
             
-            MyArray.ArrayFunc3();
-
         }
     }
 }
